@@ -1,7 +1,7 @@
 import random
 
 # DEBUG only flag
-VERBOSE = True
+VERBOSE = False
 
 class Transform:
 
